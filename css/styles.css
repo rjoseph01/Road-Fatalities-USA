@@ -1,0 +1,33 @@
+#mapWindow {
+	width: 60%;
+	height: 450px;
+	margin: 0 auto;
+	display: inline-block;
+}
+.header {
+	height: 125px;
+	background-color: beige;
+	margin: 6px;
+	padding: 4px 4px 4px 24px;
+	color: #003561;
+} 
+#sidepanel {
+	display: inline-block; 
+	position: absolute;
+	padding: 20px;
+	margin: 0px 0px 0px 15px;
+    height: 410px;
+    width: 30%;
+	background-color: seashell;
+}
+#sidepanel h3{
+	display: inline-block;
+	color: navy;
+}
+#sidepanel h4{
+	display: inline-block;
+	color: red;
+}
+#sidepanel div{
+	height: 40px;
+}
